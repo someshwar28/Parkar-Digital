@@ -15,7 +15,7 @@ public class GitDemoApplication {
 	
 	@GetMapping(value = "/welcome")
 	public String getWelcomeMsg() {
-		return "Welcome to parkar digital";
+		return "Welcome to parkar digital Ready for interview";
 	}
 
 }
